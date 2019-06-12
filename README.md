@@ -1,8 +1,3 @@
-# hello my friend #
-## test ###
-### test ###
+# 2019 년 파이썬 빅데이터 / 머신러닝
 
-* test *
-
-- test -
-: test :
+* 주피터 노트북 스크립트
